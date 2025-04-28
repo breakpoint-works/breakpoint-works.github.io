@@ -15,6 +15,12 @@ theme = "hugo-creative-portfolio-theme"
   email = "rafarcc13@gmail.com"
 
 
+# Nav links in the side bar
+[[params.navlinks]]
+name = "projects"
+url = "projects/"
+home = true
+
 [params.social]
 email         = "rafarcc13@gmail.com"
 linkedin      = "https://www.linkedin.com/in/rafael-carro-5713291a2/"
