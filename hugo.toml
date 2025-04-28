@@ -26,6 +26,10 @@ name = "about"
 url = "about/"
 home = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params.social]
 email         = "rafarcc13@gmail.com"
 linkedin      = "https://www.linkedin.com/in/rafael-carro-5713291a2/"
