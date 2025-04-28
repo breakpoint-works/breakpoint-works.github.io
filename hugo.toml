@@ -6,8 +6,8 @@ theme = "hugo-creative-portfolio-theme"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
-  style = "sea"
-  description = "Rafa Carro - Naval Architect specializing high-performance racing yachts"
+  style = "blue"
+  description = "Rafa Carro - Naval Architect specializing in high-performance racing yachts"
   copyright = "&copy;2025 Rafael Carro"
   sidebarAbout = [
     "Naval Architect specializing high-performance racing yachts",
@@ -15,7 +15,7 @@ theme = "hugo-creative-portfolio-theme"
   email = "rafarcc13@gmail.com"
 
 
-  [params.social]
-  email         = "rafarcc13@gmail.com"
-  linkedin      = "https://www.linkedin.com/in/rafael-carro-5713291a2/"
-  github        = "https://github.com/breakpoint-works"
+[params.social]
+email         = "rafarcc13@gmail.com"
+linkedin      = "https://www.linkedin.com/in/rafael-carro-5713291a2/"
+github        = "https://github.com/breakpoint-works"
