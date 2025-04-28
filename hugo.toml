@@ -19,6 +19,11 @@ theme = "hugo-creative-portfolio-theme"
 [[params.navlinks]]
 name = "projects"
 url = "projects/"
+home = false
+
+[[params.navlinks]]
+name = "about"
+url = "about/"
 home = true
 
 [params.social]
