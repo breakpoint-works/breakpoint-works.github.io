@@ -1,0 +1,32 @@
+baseURL = 'https://breakpoint-works.github.io/'
+languageCode = 'en-us'
+title = 'Rafa Carro - Naval Architect'
+theme = "hugo-creative-portfolio-theme"
+
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  style = "blue"
+  description = "Rafa Carro - Naval Architect specializing in high-performance racing yachts"
+  copyright = "&copy;2025 Rafael Carro"
+  sidebarAbout = [
+    "Naval Architect specializing high-performance racing yachts",
+  ]
+  email = "rafarcc13@gmail.com"
+
+
+# Nav links in the side bar
+[[params.navlinks]]
+name = "projects"
+url = "projects/"
+home = false
+
+[[params.navlinks]]
+name = "about"
+url = "about/"
+home = true
+
+[params.social]
+email         = "rafarcc13@gmail.com"
+linkedin      = "https://www.linkedin.com/in/rafael-carro-5713291a2/"
+github        = "https://github.com/breakpoint-works"
