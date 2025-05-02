@@ -4,7 +4,7 @@ draft = true
 title = "IMOCA 60 - Corum L'Epargne"
 showonlyimage = false
 image = "img/projects/corum/corum_01.jpg"
-weight = 3
+weight = 4
 +++
 
 *Foil Design, Performance Prediction, Boat and Sail Development*

@@ -4,7 +4,7 @@ draft = true
 title = "CLUBSWAN 125 - Skorpios"
 showonlyimage = false
 image = "img/projects/skorpios/skorpios_01.jpg"
-weight = 3
+weight = 1
 +++
 
 *Performance Prediction, Sail Developement, Performance Analysis*

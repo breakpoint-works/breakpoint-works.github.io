@@ -4,7 +4,7 @@ draft = true
 title = "FOILING 40ft MONOHULL"
 showonlyimage = false
 image = "img/projects/flying40/confidential.webp"
-weight = 2
+weight = 4
 +++
 
 *Concept Sizing, Foil Design, Flight Control, Performance Analysis*
