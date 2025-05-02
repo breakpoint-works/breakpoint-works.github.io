@@ -2,7 +2,7 @@
 date = '2025-05-02T15:17:47+02:00'
 draft = false
 title = "MUSTANG - TC ARGENTINA"
-showonlyimage = false
+showonlyimage = true
 image = "img/projects/mustang/mustang_01.jpg"
 weight = 4
 +++

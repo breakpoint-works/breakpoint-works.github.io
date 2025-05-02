@@ -2,7 +2,7 @@
 date = '2025-05-02T11:21:19+02:00'
 draft = false
 title = "CLUBSWAN 125 - Skorpios"
-showonlyimage = false
+showonlyimage = true
 image = "img/projects/skorpios/skorpios_01.jpg"
 weight = 1
 +++
