@@ -2,7 +2,7 @@
 date = '2025-04-29T17:25:36+02:00'
 draft = true
 title = "IMOCA 60 - Arkea Paprec"
-showonlyimage = true
+showonlyimage = false
 image = "img/projects/arkea/arkea_01.jpeg"
 weight = 3
 +++

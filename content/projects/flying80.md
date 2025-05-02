@@ -2,7 +2,7 @@
 date = '2025-05-02T15:17:25+02:00'
 draft = true
 title = "FOILING MONOHULL"
-showonlyimage = true
+showonlyimage = false
 image = "img/projects/flying40/confidential.webp"
 weight = 2
 +++

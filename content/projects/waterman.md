@@ -2,7 +2,7 @@
 date = '2025-05-02T15:17:30+02:00'
 draft = true
 title = "WATERMAN CO - FOIL"
-showonlyimage = true
+showonlyimage = false
 image = "img/projects/waterman/waterman_01.jpg"
 weight = 3
 +++
