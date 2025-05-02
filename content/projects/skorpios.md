@@ -1,6 +1,6 @@
 +++
 date = '2025-05-02T11:21:19+02:00'
-draft = true
+draft = false
 title = "CLUBSWAN 125 - Skorpios"
 showonlyimage = false
 image = "img/projects/skorpios/skorpios_01.jpg"

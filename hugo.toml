@@ -19,12 +19,12 @@ theme = "hugo-creative-portfolio-theme"
 [[params.navlinks]]
 name = "projects"
 url = "projects/"
-home = false
+home = true
 
 [[params.navlinks]]
 name = "about"
 url = "about/"
-home = true
+home = false
 
 [caches]
   [caches.images]

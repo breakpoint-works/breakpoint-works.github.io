@@ -1,6 +1,6 @@
 +++
 date = '2025-05-02T11:21:55+02:00'
-draft = true
+draft = false
 title = "FOILING 40ft MONOHULL"
 showonlyimage = false
 image = "img/projects/flying40/confidential.webp"

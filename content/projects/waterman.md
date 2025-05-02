@@ -1,6 +1,6 @@
 +++
 date = '2025-05-02T15:17:30+02:00'
-draft = true
+draft = false
 title = "WATERMAN CO - FOIL"
 showonlyimage = false
 image = "img/projects/waterman/waterman_01.jpg"

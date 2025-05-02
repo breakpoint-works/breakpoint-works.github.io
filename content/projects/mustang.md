@@ -1,6 +1,6 @@
 +++
 date = '2025-05-02T15:17:47+02:00'
-draft = true
+draft = false
 title = "MUSTANG - TC ARGENTINA"
 showonlyimage = false
 image = "img/projects/mustang/mustang_01.jpg"
