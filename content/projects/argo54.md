@@ -1,6 +1,6 @@
 +++
 date = '2025-05-08T19:00:32+02:00'
-draft = true
+draft = false
 title = "SUPERYACHT - ARGO 54"
 showonlyimage = true
 image = "img/projects/argo/argo_00.jpg"

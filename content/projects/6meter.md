@@ -1,6 +1,6 @@
 +++
 date = '2025-05-08T19:00:01+02:00'
-draft = true
+draft = false
 title = "MODERN 6 METER - STELLA"
 showonlyimage = true
 image = "img/projects/6meter/stella_01.jpg"
