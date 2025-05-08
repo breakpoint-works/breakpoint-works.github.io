@@ -4,7 +4,7 @@ draft = false
 title = "MUSTANG - TC ARGENTINA"
 showonlyimage = true
 image = "img/projects/mustang/mustang_01.jpg"
-weight = 4
+weight = 3
 +++
 
 *CFD Simulations*

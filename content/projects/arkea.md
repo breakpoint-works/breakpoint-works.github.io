@@ -7,7 +7,7 @@ image = "img/projects/arkea/arkea_01.jpeg"
 weight = 5
 +++
 
-*Foil Design, Performance Prediction, Boat developement*
+*Foil Design, Performance Prediction, Boat developmet*
 
 <!--more-->
 
