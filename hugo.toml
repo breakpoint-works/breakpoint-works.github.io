@@ -26,6 +26,11 @@ name = "about"
 url = "about/"
 home = false
 
+[[params.navlinks]]
+name = "behind the design"
+url = "behind-design/"
+home = false
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
