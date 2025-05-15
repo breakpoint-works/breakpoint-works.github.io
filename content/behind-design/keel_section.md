@@ -34,7 +34,11 @@ Designing foil sections involves trade-offs between **hydrodynamic efficiency**,
 
 ### Results
 
-During the case study, three baseline profiles were considered: **NACA-0018**, **NACA-6 series**, and **Eppler**.  
+During the case study, three baseline profiles were considered:
+*   **Eppler**
+*   **NACA-6 series**
+*   **NACA-0018**   
+
 The resulting design achieved a **~10% drag reduction** compared to the Eppler section, while still satisfying structural constraints.
 
 ![Section Evaluation Plot](/img/behind-design/keel_section/section_evaluation.png)
