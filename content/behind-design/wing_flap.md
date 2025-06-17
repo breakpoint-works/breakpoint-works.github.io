@@ -36,7 +36,11 @@ The following conditions represent the cavitation constraint conditions
 
 
 #### Initial Section
-The baseline section was a **modified Eppler 211**, scaled to comply with structural thickness. While it performed well in low-speed conditions, early evaluation showed it **failed the cavitation criteria** above 35 knots, highlighting the need for a tailored solution.
+The baseline section was an **Eppler 211**, scaled to comply with structural thickness.
+
+![Eppler Section](/img/behind-design/flap_section/eppler_section.png)
+
+While it performed well in low-speed conditions, early evaluation showed it **failed the cavitation criteria** above 35 knots, highlighting the need for a tailored solution.
 
 ![Eppler Cavitation Plot](/img/behind-design/flap_section/eppler_cavitation.png)
 
@@ -49,13 +53,20 @@ The baseline section was a **modified Eppler 211**, scaled to comply with struct
 
 ### Results
 
+![Optimized Section](/img/behind-design/flap_section/opti_vs_eppler_sections.png)
+
 The resulting optimized section:
 
 * Is **thinner** than the original Eppler profile.
 * Is **slightly longer**, compensating structurally.
 * Features **aft-loaded camber** and subtle **leading edge carving** to balance performance and cavitation behavior.
 
-It satisfies all **cavitation constraints** and **structural requirements**, and delivers **lower drag** than the Eppler baseline in all conditions — **except the lowest-speed one**, where the Eppler’s rounder nose geometry performs slightly better.
+It satisfies the **cavitation constraints** and **structural requirements**
+
+![Optimized Section Cavitation](/img/behind-design/flap_section/opti_cavitation.png)
+
+
+Delivers **lower drag** than the Eppler baseline in all conditions — **except the lowest-speed one**, where the Eppler’s rounder nose geometry performs slightly better.
 
 ### Insight
 
