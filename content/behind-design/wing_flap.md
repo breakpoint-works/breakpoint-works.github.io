@@ -57,23 +57,21 @@ While it performed well in low-speed conditions, early evaluation showed it **fa
 
 The resulting optimized section:
 
-* Is **thinner** than the original Eppler profile.
-* Is **slightly longer**, compensating structurally.
-* Features **aft-loaded camber** and subtle **leading edge carving** to balance performance and cavitation behavior.
+> * Is **thinner** than the original Eppler profile.
+> * Is **slightly longer**, to compensate structurally.
+> * Features **aft-loaded camber** and subtle **leading edge carving** to balance performance and cavitation behavior.
 
 It satisfies the **cavitation constraints** and **structural requirements**
 
 ![Optimized Section Cavitation](/img/behind-design/flap_section/opti_cavitation.png)
 
 
-Delivers **lower drag** than the Eppler baseline in all conditions — **except the lowest-speed one**, where the Eppler’s rounder nose geometry performs slightly better.
+Drag Optimization result:
+> * The optimized section shows lower drag above 29.0kn of speed
+> * The higher drag at lower speeds is the cost of increasing the top-speed of the section. Thi highlights the relevance of the design criteria seting.
 
-### Insight
+![Drag Comparison](/img/behind-design/flap_section/drag_comparison.png)
 
-This trade-off reveals an important design tension:  
-> **Gaining top-speed capability often requires paying for it in low-speed drag.**
-
-By plotting **drag across sailing conditions** vs. **maximum cavitation-free speed**, a clear trend emerges: pushing cavitation limits higher results in **disproportionate drag penalties** at lower speeds — a valuable insight when prioritizing design objectives.
 
 ### Summary
 
