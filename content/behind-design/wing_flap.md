@@ -72,10 +72,13 @@ It satisfies the **cavitation constraints** and **structural requirements**
 
 Drag Optimization result:
 > * The optimized section shows lower drag above 29.0kn of speed
-> * The higher drag at lower speeds is the cost of increasing the top-speed of the section. Thi highlights the relevance of the design criteria seting.
+> * The higher drag at lower speeds is the cost of increasing the top-speed of the section.
 
 ![Drag Comparison](/img/behind-design/flap_section/drag_comparison.png)
 
+The trade-off between High-Speed Cavitation and low speed drag is shown when comparing the Drag in the different performance conditions against the Top Speed for all the sections generated in the Design Exploration Phase. It is clear how in the lower speed condition, drag goes sligthly up as the top speed of the section goes above 35kn.
+
+![Top Speed Impact](/img/behind-design/flap_section/drag_vs_top_speed.png)
 
 ### Summary
 
