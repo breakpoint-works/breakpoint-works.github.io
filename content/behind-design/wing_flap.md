@@ -6,45 +6,39 @@ showonlyimage = false
 image = "/img/behind-design/flap_section/opti_vs_eppler_sections.png"
 +++
 
-*Drag Reduction, Cavitation Control, Structural Compliance*
+*Drag Reduction, Cavitation Control*
 
 <!--more-->
 
-This case study focuses on the **optimization of a flap-type wing section** for a **foiling yacht**, with design targets inspired by **America’s Cup–style boats**. The goal was to minimize **hydrodynamic drag** under sailing conditions, while ensuring the section complies with **cavitation limits** at high speeds and meets **structural constraints**.
+This case study focuses on the **optimization of a flap-type wing section** for a **foiling yacht**, with design targets inspired by **America’s Cup–style boats**. The goal was to minimize **hydrodynamic drag** under sailing conditions, while ensuring the section complies with **cavitation limits** and meets **structural constraints**.
 
 ![Optimized Section](/img/behind-design/flap_section/opti_vs_eppler_sections.png)
 
-### Context
+### Inputs
 
-The optimization problem is defined by a set of operating points, each specified as a pair of **(speed, CL·chord)** to include the effect of chord variation. Two condition sets were established:
+The optimization problem is defined by a set of operating points, each specified as a pair of **(speed, CL·chord)**. 
+Two condition sets were established:
 
-#### Performance Conditions
-The following conditions represent the drag reduction objective
+##### Performance Conditions – Optimization Targets  
 
-| Condition     			 | Speed [kn] | CL·chord |
-|----------------------------|------------|----------|
-| Take-off      	         | 20         | 0.20     |
-| Upwind (Low-Speed)         | 29         | 0.10     |
-| Upwind (High-Speed)        | 35         | 0.07     |
-| Downwind      			 | 42         | 0.05     |
+> * Take-off: 20 kn, CL·chord = 0.20
+> * Straight-Line (Low-Speed): 29 kn, CL·chord = 0.10
+> * Straight-Line (Mid-Speed): 35 kn, CL·chord = 0.07
+> * Straight-Line (High-Speed): 42 kn, CL·chord = 0.05
 
-#### Cavitation Conditions
-The following conditions represent the cavitation constraint conditions
-
-| Condition     			 | Speed [kn] | CL·chord |
-|----------------------------|------------|----------|
-| Take-off      	         | 15         | 0.50     |
-| Maneuver1			         | 37         | 0.15     |
-| Maneuver2			         | 44         | 0.10     |
-| High-Speed      			 | 47         | 0.08     |
+##### Cavitation Conditions – Constraints  
+> * Take-off: 15 kn, CL·chord = 0.50
+> * Maneuver 1: 37 kn, CL·chord = 0.15
+> * Maneuver 2: 44 kn, CL·chord = 0.10
+> * Top-Speed: 47 kn, CL·chord = 0.08
 
 
-#### Initial Section
+##### Initial Section
 The baseline section was an **Eppler 211**, scaled to comply with structural thickness.
 
 ![Eppler Section](/img/behind-design/flap_section/eppler_section.png)
 
-While it performed well in low-speed conditions, early evaluation showed it **failed the cavitation criteria** above 35 knots, highlighting the need for a tailored solution.
+While it performed well in low-speed conditions, early evaluation showed it failed to meet cavitation criteria above 35 knots, highlighting the need for a more specialized solution.
 
 ![Eppler Cavitation Plot](/img/behind-design/flap_section/eppler_cavitation.png)
 
@@ -59,27 +53,32 @@ While it performed well in low-speed conditions, early evaluation showed it **fa
 
 ![Optimized Section](/img/behind-design/flap_section/opti_vs_eppler_sections.png)
 
-The resulting optimized section:
+The optimized section:
 
 > * Is **thinner** than the original Eppler profile.
 > * Is **slightly longer**, to compensate structurally.
 > * Features **aft-loaded camber** and subtle **leading edge carving** to balance performance and cavitation behavior.
 
-It satisfies the **cavitation constraints** and **structural requirements**
+##### Cavitation
+
+It successfully satisfies all **cavitation** constraints.
 
 ![Optimized Section Cavitation](/img/behind-design/flap_section/opti_cavitation.png)
 
 
-Drag Optimization result:
-> * The optimized section shows lower drag above 29.0kn of speed
-> * The higher drag at lower speeds is the cost of increasing the top-speed of the section.
+##### Drag Optimization
+
+> * The optimized section shows **lower drag** than the baseline in all conditions **above 29 knots**
+> * The **higher drag at lower speeds** is the trade-off for increasing the **maximum cavitation-free speed**
 
 ![Drag Comparison](/img/behind-design/flap_section/drag_comparison.png)
 
-The trade-off between High-Speed Cavitation and low speed drag is shown when comparing the Drag in the different performance conditions against the Top Speed for all the sections generated in the Design Exploration Phase. It is clear how in the lower speed condition, drag goes sligthly up as the top speed of the section goes above 35kn.
+This trade-off becomes more evident when plotting **drag in performance conditions** versus **top cavitation-free speed** across the design exploration space.  
+It is clear that improving top-speed cavitation resistance comes at the cost of **higher drag in low-speed conditions**, especially when top-speed is increased beyond the 35-knots mark.
 
 ![Top Speed Impact](/img/behind-design/flap_section/drag_vs_top_speed.png)
 
 ### Summary
 
-This case illustrates how a **multi-objective optimization** combining **drag, cavitation, and structure** can inform the design of complex foil sections with flaps. By exploring design trade-offs across a wide performance envelope, the process yields deeper understanding of what performance gains come at what cost — a key principle in advanced foil design.
+This case illustrates how a **multi-objective optimization**—balancing **drag**, **cavitation**, and **structure**—can guide the design of advanced foil sections with flaps.  
+By exploring performance trade-offs across a wide range of conditions, the process offers valuable insights into what gains are achievable — and at what cost.
