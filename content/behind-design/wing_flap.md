@@ -2,6 +2,8 @@
 date = '2025-06-16T08:43:09+02:00'
 draft = true
 title = 'Foil Flap Section'
+showonlyimage = false
+image = "/img/behind-design/flap_section/opti_vs_eppler_sections.png"
 +++
 
 *Drag Reduction, Cavitation Control, Structural Compliance*
@@ -9,6 +11,8 @@ title = 'Foil Flap Section'
 <!--more-->
 
 This case study focuses on the **optimization of a flap-type wing section** for a **foiling yacht**, with design targets inspired by **America’s Cup–style boats**. The goal was to minimize **hydrodynamic drag** under sailing conditions, while ensuring the section complies with **cavitation limits** at high speeds and meets **structural constraints**.
+
+![Optimized Section](/img/behind-design/flap_section/opti_vs_eppler_sections.png)
 
 ### Context
 
