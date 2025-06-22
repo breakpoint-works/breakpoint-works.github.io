@@ -1,6 +1,6 @@
 +++
 date = '2025-06-16T08:43:09+02:00'
-draft = true
+draft = false
 title = 'Foil Flap Section'
 showonlyimage = false
 image = "/img/behind-design/flap_section/opti_vs_eppler_sections.png"
