@@ -11,7 +11,7 @@ weight = 4
 
 <!--more-->
 
-Confidential project involving the evaluation of multiple **WASP technologies**.
+Confidential project involving the evaluation of multiple **WASP technologies**, as part of [Juan Yacht Design Team](https://www.juanyachtdesign.com/).
 
 The scope included:
 
