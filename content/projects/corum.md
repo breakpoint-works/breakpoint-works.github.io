@@ -11,7 +11,7 @@ weight = 4
 
 <!--more-->
 
-Involved as part of **Juan Yacht Design** team in the design of the **IMOCA 60 CORUM L’Épargne**, built for **Nicolas Troussel’s** campaign in the **2020 Vendée Globe** and later raced in the **Ocean Race Europe 2021**.
+Involved as part of [Juan Yacht Design Team](https://www.juanyachtdesign.com/) team in the design of the **IMOCA 60 CORUM L’Épargne**, built for **Nicolas Troussel’s** campaign in the **2020 Vendée Globe** and later raced in the **Ocean Race Europe 2021**.
 
 I contributed to both the **initial concept** and **development phases** of the boat.
 
