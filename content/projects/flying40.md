@@ -1,6 +1,6 @@
 +++
 date = '2025-05-02T11:21:55+02:00'
-draft = false
+draft = true
 title = "FOILING 40ft MONOHULL"
 showonlyimage = true
 image = "img/projects/flying40/confidential.webp"
@@ -13,7 +13,7 @@ weight = 4
 
 Confidential 40ft **foiling monohull** project developed for a **private owner** with the goal of delivering an **America’s Cup–level sailing experience** combined with enhanced **safety standards** for regular use.
 
-I was involved as part of the **Juan Yacht Design** team from the **preliminary concept phase** through to the **on-water development** and **post-launch improvements**.
+I was involved as part of the [Juan Yacht Design Team](https://www.juanyachtdesign.com/) team from the **preliminary concept phase** through to the **on-water development** and **post-launch improvements**.
 
 This ambitious project brought together **some of the top experts in the industry**, tackling unique challenges in high-speed monohull design:
 
