@@ -11,7 +11,7 @@ weight = 5
 
 <!--more-->
 
-Involved as part of **Juan Yacht Design** team in the design of an **IMOCA 60** built for **Sebastien Simon’s** campaign in the **2020 Vendée Globe**.
+Involved as part of [Juan Yacht Design Team](https://www.juanyachtdesign.com/) in the design of an **IMOCA 60** built for **Sebastien Simon’s** campaign in the **2020 Vendée Globe**.
 
 I contributed to the project during both the **conceptual design** and **development phases**.
 
