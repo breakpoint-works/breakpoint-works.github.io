@@ -12,7 +12,7 @@ weight = 3
 <!--more-->
 
 
-**Aerodynamic analysis** of Manu Urcera's **Mustang M1** in Argentina’s **Turismo Carretera (TC) Championship**.
+**Aerodynamic analysis** of Manu Urcera's **Mustang M1** in Argentina’s **Turismo Carretera (TC) Championship** as part of [Juan Yacht Design Team](https://www.juanyachtdesign.com/).
 
 **CFD simulations** of the full car, including its **cooling system**, with the goal of optimizing **aerodynamic performance** and creating a detailed **aero map** to support the team in setting up the car for different race conditions.
 

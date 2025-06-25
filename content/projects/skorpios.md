@@ -11,7 +11,7 @@ weight = 1
 
 <!--more-->
 
-Part of the **Juan Yacht Design** team during the final design and early sailing phases of the **ClubSwan 125 Skorpios**.
+Part of the [Juan Yacht Design Team](https://www.juanyachtdesign.com/) during the final design and early sailing phases of the **ClubSwan 125 Skorpios**.
 
 I joined the project during the late design stages, focusing on **performance prediction** using **VPP** tools. I also conducted **CFD-FSI simulations** on the **canting keel trim tab**, contributing to the refinement of the appendage.
 

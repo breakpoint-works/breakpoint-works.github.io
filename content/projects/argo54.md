@@ -11,7 +11,7 @@ weight = 5
 
 <!--more-->
 
-Involved as part of the **Juan Yacht Design** team in the development of a **54m sailing superyacht**.
+Involved as part of the [Juan Yacht Design Team](https://www.juanyachtdesign.com/) in the development of a **54m sailing superyacht**.
 
 The goal was not to chase ultimate performance, but to ensure **balanced and enjoyable sailing characteristics**—a challenge at this scale.
 

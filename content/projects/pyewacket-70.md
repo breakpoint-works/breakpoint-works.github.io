@@ -11,7 +11,7 @@ weight = 4
 
 <!--more-->
 
-Performance study of the **PYEWACKET VOR70** ahead of the **2020 racing season**, as part of the **Juan Yacht Design** team.
+Performance study of the **PYEWACKET VOR70** ahead of the **2020 racing season**, as part of the [Juan Yacht Design Team](https://www.juanyachtdesign.com/).
 
 The work focused on:
 
