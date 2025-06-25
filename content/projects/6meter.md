@@ -12,7 +12,7 @@ weight = 6
 <!--more-->
 
 
-Involved in optimizing the **hydrodynamic performance** of the **modern 6 Metre yacht _Stella_**.
+Involved in optimizing the **hydrodynamic performance** of the **modern 6 Metre yacht _Stella_** as part of [Juan Yacht Design Team](https://www.juanyachtdesign.com/).
 
 The work focused on:
 * **CFD-based** refinement of the **keel and fin shapes**.
